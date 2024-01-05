@@ -42,7 +42,7 @@ python image_to_gcode.py <image_path> <output_gcode_path> --power=<laser_power> 
 Clone the repository and navigate to the repository directory:
 
 ```bash
-git clone https://github.com/your-username/gcode-converter.git
+git clone https://github.com/Khlick/gcode-converter.git
 cd gcode-converter
 ```
 To use these tools, we recommend creating a Python environment using `venv` or `conda`. Activate the environment and install the required Python packages.
